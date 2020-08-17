@@ -7,106 +7,99 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Jakob Johns
+    tagline: Cyber Security Instructor
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: jakobjohns5@gmail.com
+    #website: blog.webjeda.com #do not add http://
+    linkedin: jakob-johns-694402196
+    github: jakobjohns
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    twitter: '@jakobjohns'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Python
+        level: Beginner
+      - idiom: HTML
+        level: Intermediate
+      - idiom: C/C++
+        level: Beginner
+      - idiom: Bash
+        level: Beginner
+      - idiom: Golang
+        level: Beginner
+      - idiom: Ruby
+        level: Beginner
+      - idiom: PHP
+        level: Beginner
+      - idiom: Java
+        level: Beginner
+      - idiom: 
+        level:
+      - idiom:
+        level:
 
     interests:
-      - item: Climbing
+      - item: Linux Operating Systems
         link:
 
-      - item: Snowboarding
+      - item: Information Security
         link:
 
-      - item: Cooking
+      - item: Systems Administration
+        link:
+      
+      - item: Software Development
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Cybersecurity, A.A.S.
+      university: Northern Virginia Community College
+      time: 2020 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Studying Cybersecurity for one year to obtain an Associates of Applied Science,
+        then transferring to George Mason University to obtain Bachelors of Applied Science in Cybersecurity.
+          - IT Technical Support Certificate of Study (2020)
+          - ADVANCE Program
+          - Dean's List (
+    - degree: Cybersecurity
+      university: Academies of Loudoun
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Vocational school where I gained 12 credits per year towards my Cybersecurity degree. Earned the CompTIA A+, Network+, and Security+ certifications. 
+        Founder of CyberCyndicate Club, a mentorship for students participating in cyber competitions.
+          - Two-time Platinum Semi-Finalist for CyberPatriot Youth CyberDefense competition (2018 - 2020)
+          - Two-time Elected Class Leader of Cybersecurity (2018 - 2020)
+          - Outstanding Student Award (2020)
+    - degree: Advanced Diploma - General Studies
+      university: Heritage High School
+      time: 2018 - 2020
+      details: |
+        Main high-school where I obtained my Advanced Diploma with a 4.0 GPA. Maintained the Academic Honor Roll all four years.
+          - GPA Academic Letter Award (Maintaining a GPA > 4.3) (2019)
+          - Secretary of Model United Nations
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Cyber Security Instructor
+      time: 2020 - Present
+      company: Empower Group Inc., Virginia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Instruction of major cyber security concepts including network, information, and system security.
+          - Partnered with Air Force Association to instruct material for the CyberPatriot competition.
+          - Instructed network concepts using skills from Ciscos
+    - role: Cyber Security Intern
+      time: June, 2019 - August, 2019
+      company: ManTech, Virginia
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -143,26 +136,15 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Certifications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      These are my currently held certifications. I am moving forward to gain my CompTIA PenTest+, CompTIA Linux+, and Red Hat Certified System Administrator.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: CompTIA Security+
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: CompTIA Network+
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: CompTIA A+
 
 skills:
     title: Skills &amp; Proficiency
@@ -185,6 +167,3 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
