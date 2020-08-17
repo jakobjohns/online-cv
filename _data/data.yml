@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -102,9 +102,9 @@ experiences:
 #projects:
     #title: Projects
     #intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     #assignments:
       #- title: Velocity
         #link: "#hook"
