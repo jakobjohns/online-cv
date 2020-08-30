@@ -62,9 +62,9 @@ education:
           - Outstanding Student Award (2020)
     - degree: Advanced Diploma - General Studies
       university: Heritage High School
-      time: 2018 - 2020
+      time: 2016 - 2020
       details: |
-        Main high-school where I obtained my Advanced Diploma with a 4.0 GPA. Maintained the Academic Honor Roll all four years.
+        High school where I obtained my Advanced Diploma with a 4.0 GPA. Maintained the Academic Honor Roll all four years.
           - GPA Academic Letter Award (Maintaining a GPA > 4.3) (2019)
           - Secretary of Model United Nations
 experiences:
@@ -99,20 +99,20 @@ experiences:
          - Tool used: Ghidra/IDA used to manipulate assembly code to modify intended program function(s) 
          - Scripting Language: Python scripting used to automate the deciphering process 
         
-#projects:
-    #title: Projects
+projects:
+    title: Projects
     #intro: >
       #You can list your side projects or open source libraries in this
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    #assignments:
-      #- title: Velocity
-        #link: "#hook"
-        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: Artwork Sales Site
+        link: "https://github.com/jakobjohns/Sales-Web-Project"
+        tagline: "A responsive website that enables fully-customizable sales and display of products such as artwork, jewelry, and others."
 
-      #- title: DevStudio
+      - title: Cluster computing
         #link: "#"
-        #tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "An effort to link multiple Raspberry Pis together to establish local cloud computing at a cheap, but higher-performance rates."
 
       #- title: Tempo
         #link: "#"
@@ -129,7 +129,7 @@ experiences:
 publications:
     title: Certifications
     intro: |
-      I am currently studying to gain my CompTIA PenTest+, CompTIA Linux+, and Red Hat Certified System Administrator.
+      I am currently studying to gain my CompTIA CySA+, CompTIA Linux+, and Red Hat Certified System Administrator.
     papers:
       - title: CompTIA Security+
       
@@ -152,10 +152,10 @@ skills:
         level: 20%
 
       - name: Bash
-        level: 35%
+        level: 50%
 
       - name: HTML
-        level: 52%
+        level: 75%
         
       - name: PHP
         level: 20% 
