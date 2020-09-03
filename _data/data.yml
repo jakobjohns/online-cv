@@ -75,6 +75,7 @@ experiences:
         Instruction of major cyber security concepts including network, information, and system security.
           - Partnered with Air Force Association to instruct material for the CyberPatriot competition.
           - Instructed network concepts using skills from Ciscos software and tools.
+          - Established a partnership with Cisco's Network Academy
     - role: Cyber Security Intern
       time: June, 2019 - August, 2019
       company: ManTech, Virginia
@@ -145,23 +146,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: HTML/CSS/SASS
+        level: 75%
+      
       - name: Python
         level: 54%
 
       - name: C/C++
-        level: 20%
-
+        level: 40%
+ 
+      - name: Java
+        level: 40%
+      
       - name: Bash
         level: 50%
-
-      - name: HTML
-        level: 75%
         
       - name: PHP
         level: 20% 
-
-      - name: Ruby on Rails
-        level: 10%
-
-      - name: Java
-        level: 40%
