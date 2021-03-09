@@ -51,6 +51,7 @@ education:
           - IT Technical Support Certificate of Study (2020)
           - ADVANCE Program
           - Dean's List (2019)
+          - Presidential Scholar (2021)
     - degree: Cybersecurity
       university: Academies of Loudoun
       time: 2018 - 2020
@@ -68,8 +69,47 @@ education:
           - GPA Academic Letter Award (Maintaining a GPA > 4.3) (2019)
           - Secretary of Model United Nations
 experiences:
+    - role: Enterprise Administrator
+      time: March, 2020 - Present
+      company: Dynamics Edge, Virginia
+      details: |
+        Administration of Microsoft Azure core resources, implementation of security policies, maintaining of production environment
+        as well as over 50 administrators and users. Trained in RedHat DevOps and Google Cloud Security Administration. Maintained primary web server 
+        and various network resources with secure implementation of internal and external networks provided by Dynamics Edge.
+    - role: Cybersecurity Engineer Intern
+      time: January, 2021 - Present
+      company: Sarela Technology Solutions, Virginia
+      details: |
+        One of two senior interns to work alongside senior engineers as part of a major cloud engineering project
+        within the company for the government sector to construct a secure cyber range for red team/blue team operations. 
+        Started hands on engineering within Microsoft Azure with administrative privileges to work and develop from the groud up
+        through STIG documentation; in addition, conducted research as a core part of the project.Trained and certified in Microsoft 
+        Azure Administration, RMF, CMMC, ISO 9001 Quality Mangement Systems, ISO/IEC 27001 Information Security. Primary roles included:
+            - DevSecOps
+            - Cloud Engineering & Administration
+            - Information/System Security Assurance
+    - role: Associate Cybersecurity Instructor I
+      time: December, 2021 - Present
+      company: HackerU
+      details: |
+         Contracted to American University to assist in instruction of core security topics for exams such as: SSCP,
+         CCNA, Security+, Network+, CEH, etc. The core units being taught for various students are:
+           - Linux and Windows security
+           - Python
+           - Cisco and Networking Security Fundamentals
+           - DFIR
+           - Ethical Hacking
+           - Cyber Infrastructure
     - role: Cyber Security Instructor
-      time: 2020 - Present
+      time: June, 2020 - September, 2021
+      company: Empower Group Inc., Virginia
+      details: |
+        Instruction of major cyber security concepts including network, information, and system security.
+          - Partnered with Air Force Association to instruct material for the CyberPatriot competition.
+          - Instructed network concepts using skills from Ciscos software and tools.
+          - Established a partnership with Cisco's Network Academy
+    - role: Cyber Security Instructor
+      time: June, 2020 - September, 2021
       company: Empower Group Inc., Virginia
       details: |
         Instruction of major cyber security concepts including network, information, and system security.
@@ -150,16 +190,13 @@ skills:
         level: 75%
       
       - name: Python
-        level: 54%
+        level: 80%
 
       - name: C/C++
-        level: 40%
+        level: 60%
  
       - name: Java
         level: 40%
       
       - name: Bash
-        level: 50%
-        
-      - name: PHP
-        level: 20% 
+        level: 70%
