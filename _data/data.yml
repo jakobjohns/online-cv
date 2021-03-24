@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jakob Johns
-    tagline: Cyber Security Instructor
+    tagline: Cybersecurity Engineer
     avatar: me2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -82,7 +82,7 @@ experiences:
       details: |
         One of two senior interns to work alongside senior engineers as part of a major cloud engineering project
         within the company for the government sector to construct a secure cyber range for red team/blue team operations. 
-        Started hands on engineering within Microsoft Azure with administrative privileges to work and develop from the groud up
+        Started hands on engineering within Microsoft Azure with administrative privileges to work and develop from the ground up
         through STIG documentation; in addition, conducted research as a core part of the project.Trained and certified in Microsoft 
         Azure Administration, RMF, CMMC, ISO 9001 Quality Mangement Systems, ISO/IEC 27001 Information Security. Primary roles included:
            - DevSecOps
@@ -102,14 +102,6 @@ experiences:
            - Cyber Infrastructure
     - role: Cyber Security Instructor
       time: June, 2020 - September, 2021
-      company: Empower Group Inc., Virginia
-      details: |
-        Instruction of major cyber security concepts including network, information, and system security.
-          - Partnered with Air Force Association to instruct material for the CyberPatriot competition.
-          - Instructed network concepts using skills from Ciscos software and tools.
-          - Established a partnership with Cisco's Network Academy
-    - role: Cyber Security Instructor
-      time: June, 2020 - September, 2020
       company: Empower Group Inc., Virginia
       details: |
         Instruction of major cyber security concepts including network, information, and system security.
