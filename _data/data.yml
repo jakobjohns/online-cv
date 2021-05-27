@@ -31,7 +31,7 @@ sidebar:
       - item: Information Security
         link:
 
-      - item: Systems Administration
+      - item: Reverse Engineering
         link:
       
       - item: Software Development
@@ -69,37 +69,41 @@ education:
           - GPA Academic Letter Award (Maintaining a GPA > 4.3) (2019)
           - Secretary of Model United Nations
 experiences:
+    - role: Dominion Forensic Engineering and Develop. Intern II
+      time: May, 2021 - Present
+      Company: Mantech, Virginia
+      details: |
+        Lead on projects regarding malware analysis, reverse engineering, and DFIR where I learned various tools and the ability to properly
+        conduct malware investigations. This includes static properties analysis, behavioral analysis, code analysis, and interactive behavioral analysis
+        with various tools including, but not limited to: Ghidra, CFF Explorer, Fiddler, Wireshark, Regshot, Process Hacker, etc.
+      role: Dominion Forensic Engineering and Develop. Intern I
+      time: June, 2019 - May, 2021
+      company: ManTech, Virginia
+      details: |
+        Inaugural set of interns; one of four junior interns selected; opportunity to work on individual 
+        and group projects that were presented to the executive staff of ManTech. Specific experience included:
+        Digital Forensics using Autopsy, Network Analysis with a thorough security-based analysis with Wireshark, 
+        Reverse Engineering encryption applications with IDA Pro, Python scripting to detect strength of algorithms among various freeware encryption utilities.
     - role: Enterprise Administrator
       time: March, 2021 - Present
       company: Dynamics Edge, Virginia
       details: |
-        Administration of Microsoft Azure core resources, implementation of security policies, maintaining of production environment
-        as well as over 50 administrators and users. Trained in RedHat DevOps and Google Cloud Security Administration. Maintained primary web server 
-        and various network resources with secure implementation of internal and external networks provided by Dynamics Edge.
+        Administration of multiple Microsoft Azure Tenants and core resources, implementation of security policies, maintaining of production environment as well 
+        as over 50 administrators and users. Trained in RedHat DevOps and Google Cloud Security Administration. Maintained multiple Ubuntu and RHEL servers including
+        a primary Ruby web server, MongoDB & mySQL Databases, and various network resources with secure implementation of internal and external networks provided by Dynamics Edge.
     - role: Cybersecurity Engineer Intern
       time: January, 2021 - Present
       company: Sarela Technology Solutions, Virginia
       details: |
-        One of two senior interns to work alongside senior engineers as part of a major cloud engineering project
-        within the company for the government sector to construct a secure cyber range for red team/blue team operations. 
-        Started hands on engineering within Microsoft Azure with administrative privileges to work and develop from the ground up
-        through STIG documentation; in addition, conducted research as a core part of the project.Trained and certified in Microsoft 
-        Azure Administration, RMF, CMMC, ISO 9001 Quality Mangement Systems, ISO/IEC 27001 Information Security. Primary roles included:
-           - DevSecOps
-           - Cloud Engineering & Administration
-           - Information/System Security Assurance
+        One of two senior interns to work alongside senior engineers as part of a major cloud engineering project within the company for the government sector to construct a secure cyber range 
+        for red team/blue team operations. Started hands on engineering within Microsoft Azure with administrative privileges to work and develop hardened machines through STIG documentation; 
+        in addition, conducted crucial research as a core part of the project. Trained and certified in Azure Administration and Fundamentals, ISO 9001 Quality Management Systems, ISO/IEC 27001 Information Security.
     - role: Associate Cybersecurity Instructor I
       time: December, 2020 - Present
-      company: HackerU
+      company: American University
       details: |
-         Contracted to American University to assist in instruction of core security topics for exams such as: SSCP,
-         CCNA, Security+, Network+, CEH, etc. The core units being taught for various students are:
-           - Linux and Windows security
-           - Python
-           - Cisco and Networking Security Fundamentals
-           - DFIR
-           - Ethical Hacking
-           - Cyber Infrastructure
+         Contracted to American University by HackerU to assist in instruction of eight-to-nine-month certification courses. Certification exam focus includes: SSCP, CCNA, Security+, Network+, CEH, etc.; 
+         the core units being taught are Linux & Windows OS Security, Python Security, Network Security & Cisco, Digital Forensics & Incident Response (DFIR), Ethical Hacking, Cyber Infrastructure & Technologies (CIT).
     - role: Cyber Security Instructor
       time: June, 2020 - September, 2021
       company: Empower Group Inc., Virginia
@@ -108,29 +112,6 @@ experiences:
           - Partnered with Air Force Association to instruct material for the CyberPatriot competition.
           - Instructed network concepts using skills from Ciscos software and tools.
           - Established a partnership with Cisco's Network Academy
-    - role: Dominion Forensic Engineering and Develop. Intern
-      time: June, 2019 - August, 2019
-      company: ManTech, Virginia
-      details: |
-        Selected through a competitive interview process to be a member of the inaugural class for the ManTech DFEND internship program; 
-        one of five juniors selected with most of the class being 2019 graduates. Presented the finalized projects to the CEO and other executive members of the ManTech staff. 
-        
-        Opportunity to work on individual and group projects focused on digital forensics, reverse engineering, data science, and network analysis. 
-        Final projects were presented to the CEO and other executive level members of the ManTech staff.  Specific experience included: 
-        
-        Digital Forensics – Participated in computer forensics challenges including disk imaging, pattern-of-life assessments, 
-        unknown file analysis, data parsing, data de-obfuscation, and scripting to automate tasks.
-         - Skills used: Metadata analysis, byte-level analysis, log file artifact parsing, cryptography, disk imaging, file carving
-         - Tool used: Autopsy used to uncover various types of hidden information with cryptography such as steganography
-         
-        Network Analysis – Challenged with parsing encrypted data in a forensic based environment to achieve further knowledge on a specific client.
-         - Skills used: Security application analysis, data reconstruction, and analysis of suspicious traffic in a real-world environment 
-         - Tool used: Wireshark used to conduct thorough security-based analysis and to produce key reports
-         
-        Reverse Engineering – Assembly-level analysis of various executables to determine their functionality and to identify and decipher code of significance. 
-         - Skills used: Anti-debugging techniques, assembly code, cryptography, dynamic and static analysis 
-         - Tool used: Ghidra/IDA used to manipulate assembly code to modify intended program function(s) 
-         - Scripting Language: Python scripting used to automate the deciphering process 
         
 projects:
     title: Projects
@@ -162,33 +143,43 @@ projects:
 publications:
     title: Certifications
     intro: |
-      I am currently studying to gain my CompTIA CySA+, CompTIA Linux+, and Red Hat Certified System Administrator.
+      I am currently studying to gain my CompTIA CASP+, GIAC Reverse Engineering Malware (GREM), and Red Hat Certified System Administrator.
     papers:
-      - title: CompTIA Security+
+    
+      - title: Microsoft Azure Administrator Associate
       
-      - title: CompTIA Secure Infrastructure Specialist (CSIS)
-       
-      - title: CompTIA IT Operations Specialist (CIOS)
+      - title: Microsoft Azure Fundamentals
+      
+      - title: CompTIA Linux+
+      
+      - title: CompTIA Security
       
       - title: CompTIA Network+
 
       - title: CompTIA A+
+      
+      - title: IBM: Python for Data Science
+      
+      - title: SkillFront ISO 9001 Quality Management Systems Associate
+      
+      - title: SkillFront ISO/IEC 27001 Information Security Associate
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: HTML/CSS/SASS
-        level: 75%
-      
+    
       - name: Python
         level: 80%
 
       - name: C/C++
-        level: 60%
- 
+        level: 80%
+      
+      - name: Bash
+        level: 80%
+        
       - name: Java
         level: 40%
       
-      - name: Bash
-        level: 70%
+      - name: HTML/CSS/SASS
+        level: 75%
