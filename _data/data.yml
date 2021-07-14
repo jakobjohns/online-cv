@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jakob Johns
-    tagline: Cybersecurity Engineer
+    tagline: Cyber Security Engineer @ Blue Cloak LLC
     avatar: me2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -30,6 +30,8 @@ sidebar:
 
       - item: Information Security
         link:
+      
+      - item: Malware Analysis
 
       - item: Reverse Engineering
         link:
@@ -42,16 +44,21 @@ career-profile:
     summary: |
       Tenacious and passionate learner in the Cybersecurity field with goals to strengthen my existing skillset.
 education:
+    - degree: Cybersecurity Concentration, B.A.S.
+      university: George Mason University
+      time: 2021 - 2023
+      details: |
+        Studying Cybersecurity for two more years to finish my Bachelors of Applied Science in Cybersecurity.
     - degree: Cybersecurity, A.A.S.
       university: Northern Virginia Community College
       time: 2020 - 2021
       details: |
-        Studying Cybersecurity for one year to obtain an Associates of Applied Science,
-        then transferring to George Mason University to obtain Bachelors of Applied Science in Cybersecurity.
+        Studied Cybersecurity for one year to obtain an Associates of Applied Science,
+        then transferred to George Mason University to obtain Bachelors of Applied Science in Cybersecurity.
           - IT Technical Support Certificate of Study (2020)
           - ADVANCE Program
-          - Dean's List (2019)
-          - Presidential Scholar (2021)
+          - Dean's List x2 (2019)
+          - Presidential Scholar x2 (2021)
     - degree: Cybersecurity
       university: Academies of Loudoun
       time: 2018 - 2020
@@ -69,8 +76,13 @@ education:
           - GPA Academic Letter Award (Maintaining a GPA > 4.3) (2019)
           - Secretary of Model United Nations
 experiences:
+    - role: Cyber Security Engineer
+      time: July, 2021 - Present
+      Company: Blue Cloak LLC, Virginia
+      details: |
+        Part of the Test and Evaluation (T&E) among many other rules doing some fantastic work with people that I enjoy and stuff that I love!
     - role: Dominion Forensic Engineering and Develop. Intern II
-      time: May, 2021 - Present
+      time: May, 2021 - July, 2021
       Company: Mantech, Virginia
       details: |
         Lead on projects regarding malware analysis, reverse engineering, and DFIR where I learned various tools and the ability to properly
@@ -91,19 +103,19 @@ experiences:
         Administration of multiple Microsoft Azure Tenants and core resources, implementation of security policies, maintaining of production environment as well 
         as over 50 administrators and users. Trained in RedHat DevOps and Google Cloud Security Administration. Maintained multiple Ubuntu and RHEL servers including
         a primary Ruby web server, MongoDB & mySQL Databases, and various network resources with secure implementation of internal and external networks provided by Dynamics Edge.
-    - role: Cybersecurity Engineer Intern
-      time: January, 2021 - Present
-      company: Sarela Technology Solutions, Virginia
-      details: |
-        One of two senior interns to work alongside senior engineers as part of a major cloud engineering project within the company for the government sector to construct a secure cyber range 
-        for red team/blue team operations. Started hands on engineering within Microsoft Azure with administrative privileges to work and develop hardened machines through STIG documentation; 
-        in addition, conducted crucial research as a core part of the project. Trained and certified in Azure Administration and Fundamentals, ISO 9001 Quality Management Systems, ISO/IEC 27001 Information Security.
     - role: Associate Cybersecurity Instructor I
       time: December, 2020 - Present
       company: American University
       details: |
          Contracted to American University by HackerU to assist in instruction of eight-to-nine-month certification courses. Certification exam focus includes: SSCP, CCNA, Security+, Network+, CEH, etc.; 
          the core units being taught are Linux & Windows OS Security, Python Security, Network Security & Cisco, Digital Forensics & Incident Response (DFIR), Ethical Hacking, Cyber Infrastructure & Technologies (CIT).
+    - role: Cybersecurity Engineer Intern
+      time: January, 2021 - June, 2021
+      company: Sarela Technology Solutions, Virginia
+      details: |
+        One of two senior interns to work alongside senior engineers as part of a major cloud engineering project within the company for the government sector to construct a secure cyber range 
+        for red team/blue team operations. Started hands on engineering within Microsoft Azure with administrative privileges to work and develop hardened machines through STIG documentation; 
+        in addition, conducted crucial research as a core part of the project. Trained and certified in Azure Administration and Fundamentals, ISO 9001 Quality Management Systems, ISO/IEC 27001 Information Security.
     - role: Cyber Security Instructor
       time: June, 2020 - September, 2021
       company: Empower Group Inc., Virginia
@@ -120,26 +132,14 @@ projects:
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Artwork Sales Site
-        link: "https://github.com/jakobjohns/Sales-Web-Project"
-        tagline: "A responsive website that enables fully-customizable sales and display of products such as artwork, jewelry, and others."
+      - title: Malware Development
+        link: "https://github.com/jakobjohns/Reverse-Shell-and-Botnet"
+        tagline: "This is with many mini projects to get better at reverse engineering and understanding API calls from a diassembly POV."
 
-      - title: Cluster computing
-        #link: "#"
-        tagline: "An effort to link multiple Raspberry Pis together to establish local cloud computing at a cheap, but higher-performance rates."
-
-      #- title: Tempo
-        #link: "#"
-        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      #- title: Atom
-        #link: "#"
-        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      #- title: Delta
-        #link: "#"
-        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: Container-based Python Web Server
+        link: "https://github.com/jakobjohns/Python-Web-Server-Docker-Container"
+        tagline: "Python web server to emulate and craft packets that malware tries to provoke during execution."
+        
 publications:
     title: Certifications
     intro: |
