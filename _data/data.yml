@@ -81,21 +81,6 @@ experiences:
       Company: Blue Cloak LLC, Virginia
       details: |
         Part of the Test and Evaluation (T&E) among many other rules doing some fantastic work with people that I enjoy and stuff that I love!
-    - role: Dominion Forensic Engineering and Develop. Intern II
-      time: May, 2021 - July, 2021
-      Company: Mantech, Virginia
-      details: |
-        Lead on projects regarding malware analysis, reverse engineering, and DFIR where I learned various tools and the ability to properly
-        conduct malware investigations. This includes static properties analysis, behavioral analysis, code analysis, and interactive behavioral analysis
-        with various tools including, but not limited to: Ghidra, CFF Explorer, Fiddler, Wireshark, Regshot, Process Hacker, etc.
-      role: Dominion Forensic Engineering and Develop. Intern I
-      time: June, 2019 - May, 2021
-      company: ManTech, Virginia
-      details: |
-        Inaugural set of interns; one of four junior interns selected; opportunity to work on individual 
-        and group projects that were presented to the executive staff of ManTech. Specific experience included:
-        Digital Forensics using Autopsy, Network Analysis with a thorough security-based analysis with Wireshark, 
-        Reverse Engineering encryption applications with IDA Pro, Python scripting to detect strength of algorithms among various freeware encryption utilities.
     - role: Enterprise Administrator
       time: March, 2021 - Present
       company: Dynamics Edge, Virginia
@@ -109,6 +94,21 @@ experiences:
       details: |
          Contracted to American University by HackerU to assist in instruction of eight-to-nine-month certification courses. Certification exam focus includes: SSCP, CCNA, Security+, Network+, CEH, etc.; 
          the core units being taught are Linux & Windows OS Security, Python Security, Network Security & Cisco, Digital Forensics & Incident Response (DFIR), Ethical Hacking, Cyber Infrastructure & Technologies (CIT).
+    - role: Dominion Forensic Engineering and Develop. Intern II
+      time: May, 2021 - July, 2021
+      Company: Mantech, Virginia
+      details: |
+        Lead on projects regarding malware analysis, reverse engineering, and DFIR where I learned various tools and the ability to properly
+        conduct malware investigations. This includes static properties analysis, behavioral analysis, code analysis, and interactive behavioral analysis
+        with various tools including, but not limited to: Ghidra, CFF Explorer, Fiddler, Wireshark, Regshot, Process Hacker, etc.
+    - role: Dominion Forensic Engineering and Develop. Intern I
+      time: June, 2019 - May, 2021
+      company: ManTech, Virginia
+      details: |
+        Inaugural set of interns; one of four junior interns selected; opportunity to work on individual 
+        and group projects that were presented to the executive staff of ManTech. Specific experience included:
+        Digital Forensics using Autopsy, Network Analysis with a thorough security-based analysis with Wireshark, 
+        Reverse Engineering encryption applications with IDA Pro, Python scripting to detect strength of algorithms among various freeware encryption utilities.
     - role: Cybersecurity Engineer Intern
       time: January, 2021 - June, 2021
       company: Sarela Technology Solutions, Virginia
