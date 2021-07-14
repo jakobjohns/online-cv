@@ -26,18 +26,15 @@ sidebar:
 
     interests:
       - item: Linux Operating Systems
-        link:
 
       - item: Information Security
-        link:
-      
+         
       - item: Malware Analysis
 
       - item: Reverse Engineering
-        link:
       
       - item: Software Development
-        link:
+        
 
 career-profile:
     title: Summary
@@ -127,10 +124,6 @@ experiences:
         
 projects:
     title: Projects
-    #intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Malware Development
         link: "https://github.com/jakobjohns/Reverse-Shell-and-Botnet"
